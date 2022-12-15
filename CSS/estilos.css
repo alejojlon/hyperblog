@@ -48,3 +48,12 @@ body
     background: white;
     padding: 1em;
 }
+
+#header
+{
+    background: #777;
+    color: white;
+    text-align: center;
+    border: 1px solid #DDD;
+    margin: 0 auto;
+}
