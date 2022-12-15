@@ -49,11 +49,12 @@ body
     padding: 1em;
 }
 
-#header
+#header 
 {
     background: #777;
     color: white;
     text-align: center;
     border: 1px solid #DDD;
-    margin: 0 auto;
+    margin: auto;
+    padding: 0.5em;
 }
